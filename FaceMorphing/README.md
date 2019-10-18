@@ -38,4 +38,7 @@ Donald Trump to Manu Ginobili using nearest:
   
 <img src="https://github.com/Wuziyi616/Numerical_Analysis_Project1/blob/master/FaceMorphing/FaceMorphing/images/face_nearest.jpg" width=400 alt="ex1">  
   
+<img src="https://github.com/Wuziyi616/Numerical_Analysis_Project1/blob/master/FaceMorphing/FaceMorphing/images/Trump2Ginobili.png" width=400 alt="ex2">
+  
+  
 &#8195;&#8195;We can see that the face-landmarks of Trump are stretched longer among the height-axis of image which is the result of Ginobili's face-landmarks.  
