@@ -35,6 +35,13 @@ distortion method which are convex and concave, so if you set angle as a positiv
 - You can input a path-to-image and also save the result to a specific path
 - After you have finished all above, click Transform and see the result!  
 
+## About the code
+&#8195;&#8195;A simple description about the code files:
+- Form1.cs is the UI file (and it's quite ugly OTZ)
+- Task.cs is the class definition for task requirements, including angles, radius, methods, etc
+- Transform.cs is the class for transform and interpolation algorithms
+- Matrix2d.cs is my own implementation of a 2d matrix. That's because we are not allowed to use matrix class from packages like OpenCV or Eigen. So in this class I implement some simple operations like inverse, swap rows and columns, etc  
+
 ## Results
 &#8195;&#8195;More results can be viewed in ./ImageMorphing/images/  
 Rotate 30 degrees using nearest:  
