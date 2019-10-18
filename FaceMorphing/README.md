@@ -34,7 +34,8 @@ You can simply install these two packages via NuGet package maneger in Visual St
 
 ## Results
 &#8195;&#8195;Show one result for clarity.  
-Trump1 to Trump2 using nearest:  
+Donald Trump to Manu Ginobili using nearest:  
   
 <img src="https://github.com/Wuziyi616/Numerical_Analysis_Project1/blob/master/FaceMorphing/FaceMorphing/images/face_nearest.jpg" width=400 alt="ex1">  
   
+&#8195;&#8195;We can see that the face-landmarks of Trump are stretched longer among the height-axis of image which is the result of Ginobili's face-landmarks.  
