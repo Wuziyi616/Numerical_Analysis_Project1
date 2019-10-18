@@ -1,2 +1,6 @@
 # Numerical_Analysis_Project1
-Project1 for 2019 Autumn class: Numerical Analysis, Department of Automation, Tsinghua University. An image and a face morpher.
+This repo contains code the results for both tasks of the project:
+- In ImageMorphing/ you will see a program that can rotate and distort an input image to any degrees and different radius
+- In FaceMorphing/ you will see a program that transform one face to another using TPS Transform between face-landmarks
+  
+Detailed descriptions and implementations can be found in each folder.
