@@ -16,7 +16,7 @@ You can simply install these two packages via NuGet package maneger in Visual St
 ## Quick Start
 &#8195;&#8195;To get a quick start of this repo, I recommend you to open the FaceMorphing.sln in VS then run it! You will see the UI like:  
   
-<img src="" width=600 alt="UI">
+<img src="https://github.com/Wuziyi616/Numerical_Analysis_Project1/blob/master/FaceMorphing/FaceMorphing/images/UI.png" width=600 alt="UI">
   
   
 &#8195;&#8195;So let me give a brief description of this UI:
@@ -36,5 +36,5 @@ You can simply install these two packages via NuGet package maneger in Visual St
 &#8195;&#8195;Show one result for clarity.  
 Trump1 to Trump2 using nearest:  
   
-<img src="" width=400 alt="ex1">  
+<img src="https://github.com/Wuziyi616/Numerical_Analysis_Project1/blob/master/FaceMorphing/FaceMorphing/images/face_nearest.jpg" width=400 alt="ex1">  
   
